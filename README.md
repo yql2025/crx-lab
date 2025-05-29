@@ -13,4 +13,4 @@
 
 ## 技能体现
 生物信息学数据处理：丰度数据处理、相对丰度计算、数据重塑、类群聚合与“Other”处理。
-高级数据可视化：熟练运用R (ggplot2, phyloseq, microbiomeutilities, ampvis2) 或 Python (seaborn, matplotlib, plotly) 等生态/组学数据分析主流工具包进行绘图。
+高级数据可视化：熟练运用R (ggplot2, phyloseq, microbiomeutilities, ampvis2) 或 Python (seaborn, matplotlib, plotly) 等生态/组学数据分析主流工具包进行绘制。
